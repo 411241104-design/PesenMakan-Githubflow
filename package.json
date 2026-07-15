@@ -1,0 +1,25 @@
+{
+  "name": "pesenmakan-githubflow",
+  "version": "1.0.0",
+  "description": "Platform e-commerce PesenMakan dengan implementasi GitHub Flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pesenmakan",
+    "github-flow",
+    "e-commerce",
+    "raksa"
+  ],
+  "author": "Adryan Izdihar Rafief (411241104)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
