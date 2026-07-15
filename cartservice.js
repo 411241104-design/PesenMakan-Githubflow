@@ -1,4 +1,6 @@
-function calcularetotal(subtotal){
-  retrun subtotal:
-  }
-module.exports = calculatetotal;
+function calculateTotal(subtotal) {
+    const tax = subtotal * 0.11;
+    return subtotal + tax;
+}
+
+module.exports = calculateTotal;
