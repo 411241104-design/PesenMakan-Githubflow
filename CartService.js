@@ -1,4 +1,4 @@
-// UAS RPL 2025/2026 - Feature Cart Update
+// Updated for UAS GitHub Flow Demo
 /**
  * CartService.js
  * Service untuk mengelola keranjang belanja pada platform PesenMakan
